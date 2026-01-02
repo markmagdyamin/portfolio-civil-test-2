@@ -1,7 +1,8 @@
-# TODO: Add Profile Image and Name to Personal Page
+# TODO: Make Website Responsive for Mobile and Desktop
 
-## Steps to Complete:
-- [x] Edit index.html to add "Mark Magdy" as a prominent heading in the hero-left section
-- [x] Add a small circular profile image (assets/profile.jpg) next to the name in hero-left
-- [x] Update style.css to style the profile image as circular and small
-- [x] Test the changes by opening the page
+- [x] Add media queries to style.css for mobile responsiveness (screens < 768px)
+- [x] Adjust hero section to stack vertically on mobile
+- [x] Reduce padding on sections for mobile devices
+- [x] Adjust font sizes for mobile readability
+- [x] Ensure images and grids scale properly on smaller screens
+- [ ] Test responsiveness across different screen sizes
